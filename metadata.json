@@ -1,0 +1,5 @@
+{
+  "name": "Portal de Autorización de Tratamiento de Datos",
+  "description": "Un micrositio para presentar la información sobre el tratamiento de datos personales y obtener el consentimiento del cliente. Incluye un PDF, un resumen en audio y un video explicativo.",
+  "requestFramePermissions": []
+}
